@@ -1,0 +1,25 @@
+CUSP Website Task List:
+
+Home Tab
+1. Add trademark symbol (™️) to the logo on the website.
+2. Implement a toggle button for English/Hindi YouTube video.
+3. Design an acknowledgement popup for users subscribing to newsletters.
+About Us Tab
+1. Rename "Connecting User and Services Provider" to "Connecting Users and Service Providers."
+2. Update “to streamline the process for both installers and suppliers” to “to streamline the process for suppliers, installers, and users.”
+3. Rename “We support you in your decision to transition to green energy” to “We support users in their decision to transition to green energy.”
+4. Increase font size for "Key Objectives" and rename it to “Our Objectives.”
+5. Rename “Prosperous Providers” to “Prosperous Service Providers.”
+Contact Us Tab
+1. Make "Sustainable Solar Solutions" bold and use a different color.
+2. In the acknowledgment email, add space between the phone number and email text in the footer.
+3. Send an additional email to sales@cuspsolar.com with different content (Template to be provided by Raunak).
+4. Update email content for the quote link:
+    * Add one line space below the "Get a Quote" button.
+Partner With Us Form
+1. Rename the label “Name Of Electricity Boards Empanelled With*” to “State where you are empanelled with Electricity Board*.”
+2. Whitelist all districts for all the current 5 states.
+3. Update placeholder text for “Reference Site Details*” to “Please mention about some of your key projects.”
+4. Make “Reference Site Details” an optional field.
+5. Replace "(Users)" in T&C (second line) with "(SPI/OEM)."
+6. Add a missing acknowledgment screen after successful form submission.
